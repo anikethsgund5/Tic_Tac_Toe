@@ -11,5 +11,5 @@ This repository contains a simple implementation of the Tic Tac Toe game using C
 - Utilizes fundamental C++ concepts such as arrays, loops, strings and conditional statements.
 ## Acknowledgements
 
-We would like to acknowledge the following resources that helped in creating this Tic Tac Toe game:
+I would like to acknowledge the following resources that helped in creating this Tic Tac Toe game:
 - [Simplilearn tic tac toe](https://youtu.be/dv_75WfQ1rA)
