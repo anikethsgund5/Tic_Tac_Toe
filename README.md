@@ -13,3 +13,7 @@ This repository contains a simple implementation of the Tic Tac Toe game using C
 
 I would like to acknowledge the following resources that helped in creating this Tic Tac Toe game:
 - [Simplilearn tic tac toe](https://youtu.be/dv_75WfQ1rA)
+
+
+#Author
+-Project is prepared by Aniketh Sridhar Gund, IIT Kharagpur
