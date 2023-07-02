@@ -15,5 +15,5 @@ I would like to acknowledge the following resources that helped in creating this
 - [Simplilearn tic tac toe](https://youtu.be/dv_75WfQ1rA)
 
 
-#Author
--Project is prepared by Aniketh Sridhar Gund, IIT Kharagpur
+##Author
+- Project is prepared by Aniketh Sridhar Gund, IIT Kharagpur
